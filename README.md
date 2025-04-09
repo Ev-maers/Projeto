@@ -131,16 +131,23 @@ stateDiagram-v2
 # 📌 Trello
 
 ![trello](https://github.com/user-attachments/assets/28534d06-afa1-4dff-959a-9424d902e199)
+https://trello.com/invite/b/67f5b2ced6f78888282fec0c/ATTI0b59b52efb8c32b50dca7151a9591f8f1539CC12/origens
 
 # 📌 Home Page
 
 ![figma](https://github.com/user-attachments/assets/e7817765-44d5-4476-94b1-6d280b1fc36f)
 
+https://www.figma.com/design/ha9qA67u2dcwt3HnRnN1U3/ORIGENS?node-id=0-1&t=JhUgpK00WcdJaaWt-1
+
+# 📌 Documentação
+
+https://docs.google.com/document/d/10-MEWaSyG75iyqvr3PHwVpHVlIXbBg8oT9OIJ-2talE/edit?usp=sharing
+
 
 # 🛠️ Tecnologias que serão Utilizadas
 
 - Prototipagem: Figma
-- Frontend: React.js
+- Frontend: React.js, HTML, CSS, JavaScript
 - Backend: Node.js
 - Banco de Dados: Django
 - Pagamentos: Mercado Pago
