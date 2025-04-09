@@ -1,16 +1,16 @@
 # Projeto_Residencia
 Origens -  Um marketplace para artesão
 
-Equipe:
-Crocheteiros
+📌 Equipe:
+- Crocheteiros
 
-Integrantes: 
-Deyvison: dmc2@cesar.school
-Joyce: jcs3@cesar.school
-Albean: ascb@cesar.school
-Evellin: maers@cesar.school
+📌 Integrantes: 
+- Deyvison: dmc2@cesar.school
+- Joyce: jcs3@cesar.school
+- Albean: ascb@cesar.school
+- Evellin: maers@cesar.school
 
-README - Origens Marketplace
+
 
 📌 Sobre o Projeto
 
