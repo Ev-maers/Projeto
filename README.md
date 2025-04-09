@@ -104,7 +104,8 @@ para que eu possa atualizar meus dados pessoais, preferências e segurança.
 
 # 📊 Diagrama de Atividades do Sistema
 
-stateDiagram-v2
+
+    stateDiagram-v2
     [*] --> Home
     Home --> Busca: Pesquisar produtos
     Home --> Explorar: Navegar por regiões
