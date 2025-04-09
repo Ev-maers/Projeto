@@ -12,25 +12,20 @@ Origens -  Um marketplace para artesão
 
 
 
-📌 Sobre o Projeto
+# 📌 Sobre o Projeto
 
 Origens é um marketplace voltado para a venda de produtos artesanais brasileiros, conectando artesãos de diversas regiões de todo o Brasil a compradores que valorizam peças únicas e culturais.
 
 
-✨ Funcionalidades Principais
+# ✨ Funcionalidades Principais
 
-Catálogo de produtos artesanais organizado por região.
+- Catálogo de produtos artesanais organizado por região.
+- Sistema de busca e filtros avançados.
+- Perfil personalizado para compradores e artesãos.
+- Carrinho de compras e favoritos.
+- Dashboard de vendas para artesãos.
 
-Sistema de busca e filtros avançados.
-
-Perfil personalizado para compradores e artesãos.
-
-Carrinho de compras e favoritos.
-
-Dashboard de vendas para artesãos.
-
-
-📋 Histórias de Usuário
+# 📋 Histórias de Usuário
 
 1. Exploração de Produtos
 Como visitante,
@@ -108,7 +103,7 @@ quero acessar e alterar minhas configurações de conta,
 para que eu possa atualizar meus dados pessoais, preferências e segurança.
 
 
-📊 Diagrama de Atividades do Sistema
+# 📊 Diagrama de Atividades do Sistema
 
 stateDiagram-v2
     [*] --> Home
@@ -134,18 +129,16 @@ stateDiagram-v2
     Pagamento --> Confirmação
 
 
-📌 Trello
+# 📌 Trello
 
 ![trello](https://github.com/user-attachments/assets/28534d06-afa1-4dff-959a-9424d902e199)
 
-📌 Home Page
+# 📌 Home Page
 
 ![figma](https://github.com/user-attachments/assets/e7817765-44d5-4476-94b1-6d280b1fc36f)
 
 
-
-
-🛠️ Tecnologias que serão Utilizadas
+# 🛠️ Tecnologias que serão Utilizadas
 
 - Prototipagem: Figma
 - Frontend: React.js
@@ -153,7 +146,7 @@ stateDiagram-v2
 - Banco de Dados: Django
 - Pagamentos: Mercado Pago
 
-  📄 Licença
+# 📄 Licença
 Distribuído sob a licença MIT. Veja LICENSE para mais informações.
 
 
