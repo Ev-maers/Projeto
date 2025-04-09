@@ -144,6 +144,10 @@ https://www.figma.com/design/ha9qA67u2dcwt3HnRnN1U3/ORIGENS?node-id=0-1&t=JhUgpK
 https://docs.google.com/document/d/10-MEWaSyG75iyqvr3PHwVpHVlIXbBg8oT9OIJ-2talE/edit?usp=sharing
 
 
+# 📌 PM_Canvas
+![PM_Canvas](https://github.com/user-attachments/assets/9b91e0ad-2c92-4e06-8d1f-59277e92ece8)
+
+
 # 🛠️ Tecnologias que serão Utilizadas
 
 - Prototipagem: Figma
