@@ -16,7 +16,6 @@ Origens -  Um marketplace para artesão
 
 Origens é um marketplace voltado para a venda de produtos artesanais brasileiros, conectando artesãos de diversas regiões de todo o Brasil a compradores que valorizam peças únicas e culturais.
 
-
 # ✨ Funcionalidades Principais
 
 - Catálogo de produtos artesanais organizado por região.
