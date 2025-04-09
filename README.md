@@ -1,4 +1,4 @@
-# Projeto_Residencia
+# Projeto_Residência_FDS
 Origens -  Um marketplace para artesão
 
 # 📌 Equipe:
