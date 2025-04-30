@@ -165,6 +165,7 @@ PROBLEMAS:
 - Família de fonte indesejada
 - Adicionar ícones nos elementos do menu
 - Aumentar o tanho das fontes dos elementos em destaque
+- Background barra lateral
 
 # 📌 Screencast (com áudio)
 https://github.com/user-attachments/assets/e490386c-569e-4eeb-a1b7-12f76c4b35e4
