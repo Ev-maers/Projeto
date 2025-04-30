@@ -150,6 +150,10 @@ https://docs.google.com/document/d/10-MEWaSyG75iyqvr3PHwVpHVlIXbBg8oT9OIJ-2talE/
 ![PM_Canvas](https://github.com/user-attachments/assets/9b91e0ad-2c92-4e06-8d1f-59277e92ece8)
 
 
+# 📌 Screencast
+https://drive.google.com/file/d/1mZoF0Jhr3T0AVWbHNPzgqTb09ZR6D4fQ/view?usp=drive_link
+
+
 # 🛠️ Tecnologias que serão Utilizadas
 
 - Prototipagem: Figma
