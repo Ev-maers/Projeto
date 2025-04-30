@@ -160,6 +160,11 @@ https://drive.google.com/file/d/1mZoF0Jhr3T0AVWbHNPzgqTb09ZR6D4fQ/view?usp=drive
 https://miro.com/welcomeonboard/amk2bDU1TFIreGtNdHhGUnJTWWhzTUNFd3g3OEhjL0NKNWdzRlZkNlhkQWovSmg0Y0pHT2V0SGZoVi9weG5ObzZ1VnlmdEF1VVQyUzY0azN2cUU5OWc2N3h0TzllT1B4UXZqcGRXazFYdWYxOUcwaXp6MmpWa2NmMkxEdjE2YTRQdGo1ZEV3bUdPQWRZUHQzSGl6V2NBPT0hdjE=?share_link_id=952511187062
 
 # 📌 Issue/Bug
+PROBLEMAS: 
+- Caixas de texto pequenas com quebras de linhas indesejas
+- Família de fonte indesejada
+- Adicionar ícones nos elementos do menu
+- Aumentar o tanho das fontes dos elementos em destaque
 
 # 📌 Screencast (com áudio)
 https://github.com/user-attachments/assets/e490386c-569e-4eeb-a1b7-12f76c4b35e4
