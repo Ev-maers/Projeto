@@ -159,6 +159,13 @@ https://drive.google.com/file/d/1mZoF0Jhr3T0AVWbHNPzgqTb09ZR6D4fQ/view?usp=drive
 # 📌 Miro_diagrama
 https://miro.com/welcomeonboard/amk2bDU1TFIreGtNdHhGUnJTWWhzTUNFd3g3OEhjL0NKNWdzRlZkNlhkQWovSmg0Y0pHT2V0SGZoVi9weG5ObzZ1VnlmdEF1VVQyUzY0azN2cUU5OWc2N3h0TzllT1B4UXZqcGRXazFYdWYxOUcwaXp6MmpWa2NmMkxEdjE2YTRQdGo1ZEV3bUdPQWRZUHQzSGl6V2NBPT0hdjE=?share_link_id=952511187062
 
+# 📌 Issue/Bug
+
+# 📌 Screencast (com áudio)
+https://www.canva.com/design/DAGmJvyIuK4/T7IRzyJBaxfkHRYiMAsasw/edit?utm_content=DAGmJvyIuK4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+
+
 
 # 🛠️ Tecnologias que serão Utilizadas
 
