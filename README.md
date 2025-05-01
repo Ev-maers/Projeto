@@ -174,6 +174,9 @@ URL: deyvisonconrado.github.io/origens
 https://www.canva.com/design/DAGmJvyIuK4/T7IRzyJBaxfkHRYiMAsasw/edit?utm_content=DAGmJvyIuK4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 
+# 📌 programação em par
+
+![program_par](https://github.com/user-attachments/assets/9aa22042-517b-4a25-aec3-4231fc2347fc)
 
 
 # 🛠️ Tecnologias que serão Utilizadas
