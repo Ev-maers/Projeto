@@ -5,10 +5,10 @@ Origens -  Um marketplace para artesão
 - Crocheteiros
 
 # 📌 Integrantes: 
+- Albean: ascb@cesar.school
 - Deyvison: dmc2@cesar.school
 - Joyce: jcs3@cesar.school
-- Albean: ascb@cesar.school
-- Evellin: maers@cesar.school
+- Maria Aparecida: maers@cesar.school
 
 # 📌 DRIVE:
 https://drive.google.com/drive/folders/1P5JKs09ljXYjFGm48BSR9Qiz4KBuG3Ot
@@ -155,7 +155,7 @@ https://docs.google.com/document/d/10-MEWaSyG75iyqvr3PHwVpHVlIXbBg8oT9OIJ-2talE/
 - Prototipagem: Figma
 - Frontend: React.js, HTML, CSS, JavaScript
 - Backend: Node.js
-- Banco de Dados: Django
+- Banco de Dados: Json
 - Pagamentos: Mercado Pago
 
 # 📄 Licença
