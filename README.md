@@ -178,7 +178,7 @@ https://drive.google.com/file/d/1mZoF0Jhr3T0AVWbHNPzgqTb09ZR6D4fQ/view?usp=drive
 ![Fluxograma](https://github.com/user-attachments/assets/996f00e9-0d28-47b2-9b40-07000a70c06b)
 
 # 📌 Miro_diagrama
-https://miro.com/welcomeonboard/amk2bDU1TFIreGtNdHhGUnJTWWhzTUNFd3g3OEhjL0NKNWdzRlZkNlhkQWovSmg0Y0pHT2V0SGZoVi9weG5ObzZ1VnlmdEF1VVQyUzY0azN2cUU5OWc2N3h0TzllT1B4UXZqcGRXazFYdWYxOUcwaXp6MmpWa2NmMkxEdjE2YTRQdGo1ZEV3bUdPQWRZUHQzSGl6V2NBPT0hdjE=?share_link_id=952511187062
+https://miro.com/welcomeonboard/amk2bDU1TFIreGtNdHhGUnJTWWhzTUNFd3g3OEhjL0NKNWdzRlZkNlhkQWovSmg0Y0pHT2V0SGZoVi9weG5ObzZ1VnlmdEF1VVQyUzY0azN2cUU5OWc2N3h0TzllT1B4UXZqcGRXazFYdWRVUi9lWkt6QWw2UlZrZlFrc2NYVmRzVXVvMm53MW9OWFg5bkJoVXZxdFhRPT0hdjE=?share_link_id=758937301885
 
 # 📌 Issue/Bug
 ### PROBLEMAS_CORRIGIDOS: 
