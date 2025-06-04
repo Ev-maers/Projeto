@@ -15,6 +15,15 @@ Origens -  Um marketplace para artesão
 * https://drive.google.com/drive/folders/1P5JKs09ljXYjFGm48BSR9Qiz4KBuG3Ot
 * https://drive.google.com/drive/folders/1P5JKs09ljXYjFGm48BSR9Qiz4KBuG3Ot?usp=sharing
 
+# 📌 Link dos arquivos: 
+
+### Código-fonte do projeto
+https://github.com/DeyvisonConrado/origens/tree/main
+### Versão online
+https://deyvisonconrado.github.io/origens/#/inicio
+### 1.3 - Passo a Passo para execução
+https://github.com/DeyvisonConrado/origens/blob/main/README.md
+
 # 📌 Sobre o Projeto
 
 Origens é um marketplace voltado para a venda de produtos artesanais brasileiros, conectando artesãos de diversas regiões de todo o Brasil a compradores que valorizam peças únicas e culturais.
@@ -149,7 +158,6 @@ https://www.figma.com/design/ha9qA67u2dcwt3HnRnN1U3/ORIGENS?node-id=0-1&t=JhUgpK
 
 ## ✅ Atualização
 ![Captura de tela 2025-06-04 170128](https://github.com/user-attachments/assets/2cdc3fe7-b7ec-45e1-b7dc-2827b51d9622)
-https://deyvisonconrado.github.io/origens/#/inicio
 
 # 📌 Documentação
 
