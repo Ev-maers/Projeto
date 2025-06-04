@@ -194,6 +194,8 @@ https://www.canva.com/design/DAGmJvyIuK4/T7IRzyJBaxfkHRYiMAsasw/edit?utm_content
 
 ![program_par](https://github.com/user-attachments/assets/9aa22042-517b-4a25-aec3-4231fc2347fc)
 
+## ✅ Atualização
+![lindos](https://github.com/user-attachments/assets/08b92326-7335-4a9f-b923-e1fd6d7407af)
 
 
 # 🛠️ Tecnologias que serão Utilizadas
