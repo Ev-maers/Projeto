@@ -13,6 +13,7 @@ Origens -  Um marketplace para artesão
 # 📌 DRIVE:
 https://drive.google.com/drive/folders/1P5JKs09ljXYjFGm48BSR9Qiz4KBuG3Ot
 
+
 # 📌 Sobre o Projeto
 
 Origens é um marketplace voltado para a venda de produtos artesanais brasileiros, conectando artesãos de diversas regiões de todo o Brasil a compradores que valorizam peças únicas e culturais.
@@ -135,11 +136,19 @@ para que eu possa atualizar meus dados pessoais, preferências e segurança.
 ![trello](https://github.com/user-attachments/assets/28534d06-afa1-4dff-959a-9424d902e199)
 https://trello.com/invite/b/67f5b2ced6f78888282fec0c/ATTI0b59b52efb8c32b50dca7151a9591f8f1539CC12/origens
 
+## ✅ Atualização
+![image](https://github.com/user-attachments/assets/f832fbf2-b51c-4e34-a2fb-8e7c4d935656)
+
+
 # 📌 Home Page
 
 ![figma](https://github.com/user-attachments/assets/e7817765-44d5-4476-94b1-6d280b1fc36f)
 
 https://www.figma.com/design/ha9qA67u2dcwt3HnRnN1U3/ORIGENS?node-id=0-1&t=JhUgpK00WcdJaaWt-1
+
+## ✅ Atualização
+![image](https://github.com/user-attachments/assets/055aaf08-8bfe-45a5-b90e-b6a086be0439)
+
 
 # 📌 Documentação
 
