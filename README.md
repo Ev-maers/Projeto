@@ -133,9 +133,13 @@ para que eu possa atualizar meus dados pessoais, preferências e segurança.
 
 
 # 📌 Trello
+https://trello.com/b/rTGxqUD5/origens
 
 ![trello](https://github.com/user-attachments/assets/28534d06-afa1-4dff-959a-9424d902e199)
-https://trello.com/invite/b/67f5b2ced6f78888282fec0c/ATTI0b59b52efb8c32b50dca7151a9591f8f1539CC12/origens
+
+## ✅ Atualização
+![image](https://github.com/user-attachments/assets/602ce58e-12f5-4b75-ac93-0e18bf36443c)
+
 
 # 📌 Home Page
 
@@ -143,9 +147,15 @@ https://trello.com/invite/b/67f5b2ced6f78888282fec0c/ATTI0b59b52efb8c32b50dca715
 
 https://www.figma.com/design/ha9qA67u2dcwt3HnRnN1U3/ORIGENS?node-id=0-1&t=JhUgpK00WcdJaaWt-1
 
+## ✅ Atualização
+![Captura de tela 2025-06-04 170128](https://github.com/user-attachments/assets/2cdc3fe7-b7ec-45e1-b7dc-2827b51d9622)
+
 # 📌 Documentação
 
 https://docs.google.com/document/d/10-MEWaSyG75iyqvr3PHwVpHVlIXbBg8oT9OIJ-2talE/edit?usp=sharing
+
+## ✅ Atualização
+[Documentação (2).pdf](https://github.com/user-attachments/files/20598299/Documentacao.2.pdf)
 
 
 # 📌 PM_Canvas
@@ -172,6 +182,10 @@ PROBLEMAS:
 # 📌 Screencast (com áudio)
 https://github.com/user-attachments/assets/e490386c-569e-4eeb-a1b7-12f76c4b35e4
 
+## ✅ Atualização
+https://github.com/user-attachments/assets/92b0bdb8-18b4-40f3-ad1c-0fb04b8ef339
+
+
 URL: deyvisonconrado.github.io/origens
 https://www.canva.com/design/DAGmJvyIuK4/T7IRzyJBaxfkHRYiMAsasw/edit?utm_content=DAGmJvyIuK4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
@@ -179,6 +193,9 @@ https://www.canva.com/design/DAGmJvyIuK4/T7IRzyJBaxfkHRYiMAsasw/edit?utm_content
 # 📌 programação em par
 
 ![program_par](https://github.com/user-attachments/assets/9aa22042-517b-4a25-aec3-4231fc2347fc)
+
+## ✅ Atualização
+
 
 
 # 🛠️ Tecnologias que serão Utilizadas
