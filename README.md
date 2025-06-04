@@ -21,7 +21,7 @@ Origens -  Um marketplace para artesão
 https://github.com/DeyvisonConrado/origens/tree/main
 ### Versão online
 https://deyvisonconrado.github.io/origens/#/inicio
-### 1.3 - Passo a Passo para execução
+### Passo a Passo para execução
 https://github.com/DeyvisonConrado/origens/blob/main/README.md
 
 # 📌 Sobre o Projeto
