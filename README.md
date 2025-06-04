@@ -149,6 +149,7 @@ https://www.figma.com/design/ha9qA67u2dcwt3HnRnN1U3/ORIGENS?node-id=0-1&t=JhUgpK
 
 ## ✅ Atualização
 ![Captura de tela 2025-06-04 170128](https://github.com/user-attachments/assets/2cdc3fe7-b7ec-45e1-b7dc-2827b51d9622)
+https://deyvisonconrado.github.io/origens/#/inicio
 
 # 📌 Documentação
 
